@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.7.0_79\bin\jarsigner" -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore C:\Projects-TortoiseSVN\hot\trunk\hot\platforms\android\build\outputs\apk\HistoryOfToday.keystore C:\Projects-TortoiseSVN\hot\trunk\hot\platforms\android\build\outputs\apk\android-release-unsigned.apk hot

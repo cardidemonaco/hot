@@ -1,0 +1,11 @@
+Directory... C:\Projects\History-of-Today\History-of-Today\
+C:\Projects\History-of-Today\node_modules\cordova\bin\cordova create hot com.cardidemonaco.hot HistoryOfToday
+
+Directory... C:\Projects\History-of-Today\History-of-Today\hot
+C:\Projects\History-of-Today\node_modules\cordova\bin\cordova platform add android
+C:\Projects\History-of-Today\node_modules\cordova\bin\cordova build
+
+Keytool key: cardi012345
+
+JDK: C:\Program Files\Java\jdk1.7.0_79\bin
+Android SDK: C:\Program Files (x86)\Android\android-sdk\build-tools\22.0.1
