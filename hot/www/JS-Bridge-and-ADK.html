@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+     
+    <title>Dynatrace Hybrid App! (our Mobile ADK combined with our JavaScript Agent)</title>
+    <link href="styles.css" rel="stylesheet" type="text/css" media="screen" />
+    
+	<!-- spaceTravel with local JS Agent and cors
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|cors=1|bandwidth=300|reportUrl=http://spacetravel.clients.nasa.cpwr.corp/dynaTraceMonitor"></script>
+	 -->
+	
+	<!-- spaceTravel with local JS Agent and no cors 
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|bandwidth=300|reportUrl=http://spacetravel.clients.nasa.cpwr.corp/dynaTraceMonitor"></script>
+	-->
+	
+		<!-- int-us-support with local JS Agent and cors (alternate Web Server: http://prod-win.clients.nasa.cpwr.corp/dynaTraceMonitor) -->
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|cors=1|bandwidth=300|reportUrl=http://prod-win.clients.nasa.cpwr.corp/dynaTraceMonitor"></script>
+	
+	<!-- int-us-support with local JS Agent and cors
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|cors=1|bandwidth=300|reportUrl=https://int-us-support.compuwareapmaas.com/dynaTraceMonitor"></script> -->
+	
+	<!-- int-us-support with local JS Agent and no cors
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|bandwidth=300|reportUrl=https://int-us-support.compuwareapmaas.com/dynaTraceMonitor"></script>
+	 -->
+	 
+	<!-- <script src='http://cd-dt-0602-win.clients.nasa.cpwr.corp/dtagent_bootstrap.js?app=Dynatrace+Hybrid+App'></script>
+	-->
+   		
+	<!-- JavaScript Bridge -->
+	<script type="text/javascript" src="javascript/CompuwareUEM.js" ></script>
+	
+	<!-- JavaScript ADK -->
+	<script type="text/javascript" src="javascript/dtagentApi.js" ></script>
+	
+	<script type="text/javascript">
+	
+	function pauseBrowser(millis) {
+		var date = Date.now();
+		var curDate = null;
+		do {
+			curDate = Date.now();
+    } while (curDate-date < millis);
+}
+	
+	function clickHere(){
+		var compuwareUEM = new CompuwareUEM;
+		action = compuwareUEM.enterAction("Clicked There");
+		//document.write("hello");
+		status = compuwareUEM.leaveAction(action);
+	}
+	
+	function clickHere2(){
+	console.log(":1 Entered clickHere2");
+		var compuwareUEM = new CompuwareUEM;
+		var a = compuwareUEM.enterAction("Clicked There");
+	console.log(":2 initialized compuwareUEM");
+		var b = dynaTrace.enterXhrAction("Clicked There (JS ADK)");
+	console.log(":3 entered Xhr Action Clicked There (JS ADK)..");
+		//document.write("hello");
+		pauseBrowser(3000);
+		dynaTrace.leaveXhrAction(b);
+	console.log(":4 left Xhr Action");
+		status = compuwareUEM.leaveAction(a);
+	console.log(":5 left Clicked There action");
+	}
+	
+	</script>
+	
+</head>
+<body>
+
+<script type="text/javascript">
+
+	//Instantiate the CompuwareUEM object and other variables in JavaScript for the JavaScript Bridge...
+	var compuwareUEM = new CompuwareUEM; //JavaScript Bridge
+	var jsbridgeAction = 0; //JavaScript Bridge Action
+	var jsadkAction = 0; //JavaScript ADK Action
+
+	//Enter the Action...
+	jsbridgeAction = compuwareUEM.enterAction("jsbridgeAction"); //JavaScript Bridge
+	jsadkAction = dynaTrace.enterXhrAction("jsadkAction"); //JavaScript ADK
+
+	// START XHR calls /////////////////////////////////////////////////////////////////////////////
+	var xhrProdWin = new XMLHttpRequest();
+	xhrProdWin.open("GET","http://prod-win.clients.nasa.cpwr.corp/UEM-CreateAVisit/ThirdParty.aspx",true); //async=true
+	xhrProdWin.send(null);
+
+	var xhrCdJava = new XMLHttpRequest();
+	xhrCdJava.open("GET","http://cd-java.clients.nasa.cpwr.corp:8080/ajax/ajax.jsp",true); //async=true
+	xhrCdJava.send(null);
+	// END XHR calls //////////////////////////////////////////////////////////////////////////////////
+
+	//Leave the Action...
+	dynaTrace.leaveXhrAction(jsadkAction); //JavaScript ADK
+	compuwareUEM.leaveAction(jsbridgeAction); // JavaScript Bridge
+
+	//notes...
+	//status = compuwareUEM.startTaggingRequests(loginAction);
+	//status = compuwareUEM.flushEvents();
+	//console.log("xxx");console.log(status);
+	//var jsbridgeSatus = 0 //JavaScript Bridge Status
+	
+</script>
+
+	<div id="menu">
+		<h1>Dynatrace Hybrid App</h1>
+		<ol>
+		<!-- GET THIS WORKING: #include file="menu.txt" -->
+			<li><a href="index.html">Home Page (index.html)</a></li><br />
+			<li><a href="CompuwareUEM.html">JavaScript Bridge implementation (CompuwareUEM.html)</a></li><br />
+			<li><a href="JS-Bridge-and-ADK.html">JavaScript Bridge AND ADK implementation (JS-Bridge-and-ADK.html)</a></li><br />
+			<li><a href="xhr-requests.html">XHR requests to a JSP and an ASPX (xhr-requests.html)</a></li><br />
+			<li><a href="script-with-no-http-or-https.html">script tag has no "http:" (script-with-no-http-or-https.html)</a></li><br />
+			<li><a href="endVisit.html">End this Visit using endVisit() (endVisit.html)</a></li><br />
+			<li><a href="noCors.html">No cors, but same as index.html (noCors.html)</a></li><br />
+			<li><a href="js-bootstrap.html">JavaScript Bootstrap Agent usage (js-bootstrap.html)</a></li><br />
+			<li><a href="xhrAction.html">Create XHR Action (xhrAction.html)</a></li><br />
+			<li><a href="loadInstrumentedPage.html">Load a Web Page that is Instrumented (loadInstrumentedPage.html)</a></li><br />
+			<li><a href="http://prod-win.clients.nasa.cpwr.corp" target="_system">Load a Web Page that is Instrumented (http://prod-win.clients.nasa.cpwr.corp)</a></li><br />
+		</ol>
+	</div>
+    
+	<button onclick="clickHere();">Click Here!</button>
+	<button onclick="clickHere2();">Click Here for JS ADK!</button>
+	
+	</body>
+</html>

@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Recreation Authority of Roseville &amp; Eastpointe</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Eastpointe</name>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9603761,42.477011100000006,0.0 -82.9604352,42.476655,0.0 -82.9601294,42.4766471,0.0 -82.9599524,42.4767183,0.0 -82.959888,42.4768133,0.0 -82.959888,42.47700319999999,0.0 -82.9603761,42.477011100000006,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9587454,42.4778182,0.0 -82.9599631,42.4776916,0.0 -82.9599631,42.4774147,0.0 -82.9597592,42.47710610000001,0.0 -82.9592979,42.47686470000001,0.0 -82.9587668,42.47686869999999,0.0 -82.9587454,42.4778182,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<description><![CDATA[Memorial Field #1]]></description>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9573399,42.4781703,0.0 -82.9586595,42.4781268,0.0 -82.9586488,42.477727200000004,0.0 -82.958461,42.4774265,0.0 -82.9580319,42.4772089,0.0 -82.9577208,42.47713770000001,0.0 -82.9572272,42.4771456,0.0 -82.9573399,42.4781703,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<description><![CDATA[Memorial Field #2]]></description>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9588097,42.478194099999996,0.0 -82.9580319,42.4781545,0.0 -82.9580212,42.47844330000001,0.0 -82.9581821,42.4786768,0.0 -82.9584289,42.4788152,0.0 -82.95880440000002,42.4788192,0.0 -82.9588097,42.478194099999996,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9376686,42.4759666,0.0 -82.9388272,42.47592699999999,0.0 -82.9387951,42.4755986,0.0 -82.9385108,42.4752465,0.0 -82.9377249,42.4751377,0.0 -82.9376686,42.4759666,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<description><![CDATA[Memorial Field #3]]></description>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9572272,42.4789379,0.0 -82.9579461,42.4789181,0.0 -82.9579461,42.4785897,0.0 -82.957828,42.4784156,0.0 -82.9575598,42.4782811,0.0 -82.9572165,42.478289,0.0 -82.9572272,42.4789379,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9601079,42.456819700000004,0.0 -82.9601187,42.456044,0.0 -82.9590082,42.456038,0.0 -82.9590806,42.456509,0.0 -82.9595447,42.4568078,0.0 -82.9601079,42.456819700000004,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9506049,42.45954460000001,0.0 -82.9511064,42.4594595,0.0 -82.9513532,42.45920230000001,0.0 -82.951321,42.4589015,0.0 -82.9505244,42.4589351,0.0 -82.950578,42.45953469999999,0.0 -82.9506049,42.45954460000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9644477,42.4641471,0.0 -82.964378,42.463620799999994,0.0 -82.9636753,42.4636446,0.0 -82.9636994,42.4641828,0.0 -82.9644477,42.4641471,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9604298,42.476560100000015,0.0 -82.9604298,42.4761684,0.0 -82.95986650000002,42.47617630000001,0.0 -82.9598612,42.4763781,0.0 -82.9599309,42.4765007,0.0 -82.9600865,42.4765798,0.0 -82.9604298,42.476560100000015,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamond</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9297587,42.4702451,0.0 -82.9306975,42.4702194,0.0 -82.9306063,42.469873099999994,0.0 -82.9302496,42.4696021,0.0 -82.9297158,42.4695863,0.0 -82.9297587,42.4702451,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamonds (2)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9551244,42.466193,0.0 -82.9539871,42.46590809999999,0.0 -82.9534721,42.4668262,0.0 -82.9543948,42.4672536,0.0 -82.9551244,42.466193,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamonds (2)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9433441,42.4598177,0.0 -82.9432476,42.4587768,0.0 -82.9425502,42.45861059999999,0.0 -82.9415417,42.4586027,0.0 -82.9415309,42.45984930000001,0.0 -82.9433441,42.4598177,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Baseball Diamonds (3)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9435802,42.4722354,0.0 -82.9435962,42.47137279999999,0.0 -82.9424,42.4708663,0.0 -82.9419065,42.4709652,0.0 -82.9419011,42.472271,0.0 -82.9435802,42.4722354,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Basketball Court (no rims)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9605371,42.47761739999999,0.0 -82.9605357,42.47743439999999,0.0 -82.9603386,42.4774463,0.0 -82.9603466,42.477619399999995,0.0 -82.9605371,42.47761739999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Dog Park</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9606175,42.4795116,0.0 -82.9606873,42.4792861,0.0 -82.9588634,42.4793058,0.0 -82.9588795,42.4795037,0.0 -82.9606175,42.4795116,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Football Field</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9600221,42.4792465,0.0 -82.960006,42.477790500000005,0.0 -82.9588205,42.4778459,0.0 -82.9588419,42.4792584,0.0 -82.9600221,42.4792465,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Football Field</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9613444,42.4642105,0.0 -82.9613471,42.46327260000001,0.0 -82.960647,42.46326659999999,0.0 -82.9606792,42.4642144,0.0 -82.9613444,42.4642105,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Gazebo (Bicentennial)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9380924,42.4730545,0.0 -82.9381406,42.4728447,0.0 -82.9378563,42.4728408,0.0 -82.9378456,42.47305050000001,0.0 -82.9380924,42.4730545,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Gazebo</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9382855,42.4769676,0.0 -82.9382801,42.47681330000001,0.0 -82.9380709,42.47681330000001,0.0 -82.9380709,42.4769676,0.0 -82.9382855,42.4769676,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Gazebo</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9196307,42.4713965,0.0 -82.9196334,42.47130550000001,0.0 -82.9194617,42.4712917,0.0 -82.9194859,42.4713965,0.0 -82.9196307,42.4713965,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Gazebo</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.918936,42.4705874,0.0 -82.918936,42.4704548,0.0 -82.918767,42.4704568,0.0 -82.9187885,42.4705893,0.0 -82.918936,42.4705874,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Horseshoes</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.919451,42.4716003,0.0 -82.9195073,42.471446,0.0 -82.9193008,42.4713985,0.0 -82.9192391,42.47154489999999,0.0 -82.919451,42.4716003,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Pavillion</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9383123,42.47385770000001,0.0 -82.9383177,42.4737231,0.0 -82.9378134,42.473735000000005,0.0 -82.9377919,42.47386560000001,0.0 -82.9383123,42.47385770000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Pavillion</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9382479,42.473679600000004,0.0 -82.9382372,42.4734818,0.0 -82.9381192,42.47348180000001,0.0 -82.9381031,42.4736836,0.0 -82.9382479,42.473679600000004,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9320869,42.4764255,0.0 -82.9320574,42.4762455,0.0 -82.9315639,42.4761743,0.0 -82.931242,42.4761763,0.0 -82.9312554,42.47641960000001,0.0 -82.9320869,42.4764255,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9191399,42.4710899,0.0 -82.9192257,42.4710127,0.0 -82.919172,42.4709217,0.0 -82.9188609,42.4708822,0.0 -82.9188555,42.4710345,0.0 -82.9191399,42.4710899,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9513532,42.4588441,0.0 -82.9513505,42.4586165,0.0 -82.9511735,42.4586066,0.0 -82.9505163,42.458699599999996,0.0 -82.950519,42.4582781,0.0 -82.9504412,42.4578646,0.0 -82.9503527,42.457860600000004,0.0 -82.950342,42.4581357,0.0 -82.95029910000001,42.4588619,0.0 -82.950747,42.4588718,0.0 -82.9513532,42.4588441,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9432274,42.470253,0.0 -82.9432328,42.4700294,0.0 -82.9429659,42.4700304,0.0 -82.94304240000001,42.4702728,0.0 -82.9432274,42.470253,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9592872,42.47679350000001,0.0 -82.959314,42.4765126,0.0 -82.9590109,42.4765165,0.0 -82.9589733,42.4768054,0.0 -82.9592872,42.47679350000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.94237050000001,42.47086240000001,0.0 -82.9423544,42.4706685,0.0 -82.9421613,42.47067440000001,0.0 -82.9421586,42.4708861,0.0 -82.94237050000001,42.47086240000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9580131,42.4761743,0.0 -82.9580158,42.4760635,0.0 -82.9572165,42.47607930000001,0.0 -82.9572165,42.4762969,0.0 -82.9574579,42.4763128,0.0 -82.9575169,42.47618020000001,0.0 -82.9580131,42.4761743,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Playground</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9733473,42.460098699999996,0.0 -82.9733419,42.4598216,0.0 -82.9726526,42.4598177,0.0 -82.9726472,42.4600967,0.0 -82.9733473,42.460098699999996,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Roller Hockey Rink</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9374272,42.4748389,0.0 -82.937454,42.4743681,0.0 -82.9370999,42.4743839,0.0 -82.937116,42.4748389,0.0 -82.9374272,42.4748389,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Shuffleboard Courts (6)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9186879,42.4720643,0.0 -82.9189213,42.47157760000001,0.0 -82.9188019,42.47154789999999,0.0 -82.9185618,42.472039499999994,0.0 -82.9186879,42.4720643,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Skate Park</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.93798510000002,42.4773474,0.0 -82.9379582,42.47714559999999,0.0 -82.9374969,42.4771575,0.0 -82.9375345,42.4773514,0.0 -82.93798510000002,42.4773474,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sled Hill</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9216558,42.4716439,0.0 -82.9216316,42.4714183,0.0 -82.9208913,42.4714242,0.0 -82.9208994,42.47164780000001,0.0 -82.9216558,42.4716439,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Soccer Field</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9321432,42.4772999,0.0 -82.9321969,42.47667080000001,0.0 -82.9306519,42.4766946,0.0 -82.9306787,42.47731970000001,0.0 -82.9321432,42.4772999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Soccer Field</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9285732,42.4786886,0.0 -82.9285678,42.47787559999999,0.0 -82.9280072,42.4779053,0.0 -82.92802870000001,42.47870639999999,0.0 -82.9285732,42.4786886,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Soccer Field</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9197541,42.4699107,0.0 -82.9203308,42.469168800000006,0.0 -82.9196575,42.4689076,0.0 -82.9191157,42.46967329999999,0.0 -82.9197541,42.4699107,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Soccer Field</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.920776,42.47223340000001,0.0 -82.9207867,42.47161019999999,0.0 -82.9195556,42.47161220000001,0.0 -82.9194349,42.4722473,0.0 -82.920776,42.47223340000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Soccer Fields (4)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9354826,42.4688997,0.0 -82.9356194,42.4677067,0.0 -82.9344231,42.467724499999996,0.0 -82.934458,42.4689195,0.0 -82.9354826,42.4688997,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Soccer Field (not lined)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.966159,42.4716023,0.0 -82.9661107,42.4702926,0.0 -82.9650754,42.47026880000001,0.0 -82.9650861,42.4716023,0.0 -82.966159,42.4716023,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Tennis Court (?)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9375291,42.4769161,0.0 -82.9375023,42.47672620000001,0.0 -82.9373628,42.47672620000001,0.0 -82.9373735,42.4769161,0.0 -82.9375291,42.4769161,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Tennis Courts (4)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9191667,42.4722948,0.0 -82.9194564,42.471626,0.0 -82.9190326,42.47151920000001,0.0 -82.9186839,42.4721879,0.0 -82.9191667,42.4722948,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Tennis Courts (no nets)</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.9508543,42.4713768,0.0 -82.9509187,42.470617,0.0 -82.9499638,42.470632900000005,0.0 -82.9500175,42.4713768,0.0 -82.9508543,42.4713768,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Track &amp; Field</name>
+				<styleUrl>#poly-000000-1-76</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-82.961382,42.4642916,0.0 -82.961036,42.4644598,0.0 -82.9606202,42.4642342,0.0 -82.9606041,42.46325869999999,0.0 -82.9609421,42.4630885,0.0 -82.9613847,42.4632488,0.0 -82.9614195,42.46425000000001,0.0 -82.9616073,42.4642283,0.0 -82.9615536,42.4632033,0.0 -82.9609501,42.4629718,0.0 -82.9604647,42.463236900000005,0.0 -82.9604915,42.464345,0.0 -82.9610091,42.4646913,0.0 -82.9615805,42.4645132,0.0 -82.9616019,42.4642698,0.0 -82.961382,42.4642916,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Roseville</name>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Style id='poly-000000-1-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

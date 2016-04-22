@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<title>Dynatrace Hybrid App! (our Mobile ADK combined with our JavaScript Agent)</title>
+	<link href="styles.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="import" href="menu.txt">
+	
+	<!-- spaceTravel with local JS Agent and cors
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|cors=1|bandwidth=300|reportUrl=http://spacetravel.clients.nasa.cpwr.corp/dynaTraceMonitor"></script>
+	 -->
+	
+	<!-- spaceTravel with local JS Agent and no cors 
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|bandwidth=300|reportUrl=http://spacetravel.clients.nasa.cpwr.corp/dynaTraceMonitor"></script>
+	-->
+	
+	<!-- int-us-support with local JS Agent and cors
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|cors=1|bandwidth=300|reportUrl=https://int-us-support.compuwareapmaas.com/dynaTraceMonitor"></script>
+	 -->
+	 
+	<!-- int-us-support with local JS Agent and no cors
+	<script type="text/javascript" src="javascript/dtagent630_23aprx_1305.js" data-dtconfig="tp=500,50,0|bandwidth=300|reportUrl=https://int-us-support.compuwareapmaas.com/dynaTraceMonitor"></script>
+	 -->
+	
+	<script src='http://cd-dt-0602-win.clients.nasa.cpwr.corp/dtagent_bootstrap.js?app=Dynatrace+Hybrid+App222'></script>
+	
+</head>
+
+<body>
+	<div id="menu">
+		<h1>Dynatrace Hybrid App</h1>
+
+		<!-- HTML5 is supposed to support loading of resources from other places... 
+		hoping to do that with menu and the JavaScript Agent includes -->
+		<script>
+			function supportsImports() {
+				return 'import' in document.createElement('link');
+			}
+
+			if (supportsImports()) {
+				// Good to go!
+				var link = document.querySelector('link[rel="import"]');
+				var content = link.import;
+
+				// Grab DOM from warning.html's document.
+				//var el = content.querySelector('.warning');
+
+				
+				document.getElementById("importedMenu").appendChild(content.innerHTML);
+			} else {
+				// Use other libraries/require systems to load files.
+			}
+		</script>
+		
+		<div id="importedMenu"></div>
+		
+			<ol>
+			<!-- GET THIS WORKING: #include file="menu.txt" -->
+				<li><a href="index.html">Home Page (index.html)</a></li><br />
+				<li><a href="CompuwareUEM.html">JavaScript Bridge implementation (CompuwareUEM.html)</a></li><br />
+				<li><a href="xhr-requests.html">XHR requests to a JSP and an ASPX (xhr-requests.html)</a></li><br />
+				<li><a href="script-with-no-http-or-https.html">script tag has no "http:" (script-with-no-http-or-https.html)</a></li><br />
+				<li><a href="endVisit.html">End this Visit using endVisit() (endVisit.html)</a></li><br />
+				<li><a href="noCors.html">No cors, but same as index.html (noCors.html)</a></li><br />
+				<li><a href="js-bootstrap.html">JavaScript Bootstrap Agent usage (js-bootstrap.html)</a></li><br />
+				<li><a href="xhrAction.html">Create XHR Action (xhrAction.html)</a></li><br />
+			</ol>
+	</div>
+
+	<!-- This is where the Map actually shows (for some reason cannot be in the <form> tag) -->
+	<!-- <div id="map_canvas"> </div> -->
+	<br/><br/><br/><br/><br/><br/><br/><br/>
+	<div>
+		<iframe src="https://www.google.com/maps/d/embed?mid=zUtCsVPGhxj8.kIuwmcjaqxpI" width="100%" height="500px" ></iframe>
+	</div>
+</body>
+</html>
