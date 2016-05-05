@@ -1,0 +1,17 @@
+2016-05-05 17:22:05.898 INFO: APKit-Instor(1): Dynatrace Auto-Instrumentation for Android version 5.1
+2016-05-05 17:22:05.901 INFO: caa-jApkRecomp(1): Decoding android-release-unsigned.apk
+2016-05-05 17:22:07.544 INFO: caa-jApkRecomp(1): Updating manifest file D:\GitHub\cardidemonaco-work hot\hot\dynatrace-mobile-adk-6.3.3.1502\Android\auto-instrumentor\android-release-unsigned\AndroidManifest.xml
+2016-05-05 17:22:07.568 INFO: APKit-ApkRecomp(1): Current versionCode=2008
+2016-05-05 17:22:07.568 INFO: APKit-ApkRecomp(1): New versionCode=2008
+2016-05-05 17:22:07.568 INFO: APKit-ApkRecomp(1): Current versionName=0.2.0
+2016-05-05 17:22:07.568 INFO: APKit-ApkRecomp(1): New versionName=0.2.0
+2016-05-05 17:22:07.622 INFO: APKit-Instor(1): MinSdkVersion=14 TargetSdkVersion=23
+2016-05-05 17:22:07.920 INFO: APKit-Instor(1): D:\GitHub\cardidemonaco-work hot\hot\dynatrace-mobile-adk-6.3.3.1502\Android\auto-instrumentor\android-release-unsigned/classes.dex ... #methods: 1086
+2016-05-05 17:22:07.921 INFO: APKit-Instor(1): Handling primary DEX file ...
+2016-05-05 17:22:07.922 INFO: APKit-Instor(1): Original DEX ... #methods=1086
+2016-05-05 17:22:12.276 INFO: APKit-Instor(1): Combined DEX ... #methods=2690
+2016-05-05 17:22:12.277 INFO: APKit-Instor(1): Instrumenting D:\GitHub\cardidemonaco-work hot\hot\dynatrace-mobile-adk-6.3.3.1502\Android\auto-instrumentor\android-release-unsigned/combined-classes.dex
+2016-05-05 17:22:12.565 INFO: APKit-Instor(1): Instrumented DEX ... #methods=2700
+2016-05-05 17:22:13.682 INFO: APKit-Instor(1): Using DynatraceUEM Mobile Agent 6.3.3.1502
+2016-05-05 17:22:13.688 INFO: caa-jApkRecomp(1): Rebuilding APK ...
+2016-05-05 17:22:16.345 INFO: APKit-Instor(1): Auto-Instrumentation finished

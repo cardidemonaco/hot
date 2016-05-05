@@ -1,5 +1,5 @@
 version: 2.0.2-0abaab-SNAPSHOT
-apkFileName: HistoryOfToday.apk
+apkFileName: android-release-unsigned.apk
 isFrameworkApk: false
 usesFramework:
   ids:
@@ -10,8 +10,8 @@ sdkInfo:
 packageInfo:
   forced-package-id: '127'
 versionInfo:
-  versionCode: '18'
-  versionName: 0.0.1
+  versionCode: '2008'
+  versionName: 0.2.0
 sharedLibrary: false
 doNotCompress:
 - resources.arsc
