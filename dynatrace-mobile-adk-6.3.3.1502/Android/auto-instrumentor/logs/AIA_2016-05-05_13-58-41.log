@@ -1,0 +1,17 @@
+2016-05-05 13:58:41.399 INFO: APKit-Instor(1): Dynatrace Auto-Instrumentation for Android version 5.1
+2016-05-05 13:58:41.402 INFO: caa-jApkRecomp(1): Decoding HistoryOfToday.apk
+2016-05-05 13:58:42.758 INFO: caa-jApkRecomp(1): Updating manifest file D:\GitHub\cardidemonaco-work hot\hot\dynatrace-mobile-adk-6.3.3.1502\Android\auto-instrumentor\HistoryOfToday\AndroidManifest.xml
+2016-05-05 13:58:42.782 INFO: APKit-ApkRecomp(1): Current versionCode=18
+2016-05-05 13:58:42.783 INFO: APKit-ApkRecomp(1): New versionCode=18
+2016-05-05 13:58:42.783 INFO: APKit-ApkRecomp(1): Current versionName=0.0.1
+2016-05-05 13:58:42.783 INFO: APKit-ApkRecomp(1): New versionName=0.0.1
+2016-05-05 13:58:42.819 INFO: APKit-Instor(1): MinSdkVersion=14 TargetSdkVersion=23
+2016-05-05 13:58:43.090 INFO: APKit-Instor(1): D:\GitHub\cardidemonaco-work hot\hot\dynatrace-mobile-adk-6.3.3.1502\Android\auto-instrumentor\HistoryOfToday/classes.dex ... #methods: 1086
+2016-05-05 13:58:43.091 INFO: APKit-Instor(1): Handling primary DEX file ...
+2016-05-05 13:58:43.093 INFO: APKit-Instor(1): Original DEX ... #methods=1086
+2016-05-05 13:58:46.645 INFO: APKit-Instor(1): Combined DEX ... #methods=2690
+2016-05-05 13:58:46.645 INFO: APKit-Instor(1): Instrumenting D:\GitHub\cardidemonaco-work hot\hot\dynatrace-mobile-adk-6.3.3.1502\Android\auto-instrumentor\HistoryOfToday/combined-classes.dex
+2016-05-05 13:58:46.894 INFO: APKit-Instor(1): Instrumented DEX ... #methods=2700
+2016-05-05 13:58:48.027 INFO: APKit-Instor(1): Using DynatraceUEM Mobile Agent 6.3.3.1502
+2016-05-05 13:58:48.036 INFO: caa-jApkRecomp(1): Rebuilding APK ...
+2016-05-05 13:58:50.740 INFO: APKit-Instor(1): Auto-Instrumentation finished
