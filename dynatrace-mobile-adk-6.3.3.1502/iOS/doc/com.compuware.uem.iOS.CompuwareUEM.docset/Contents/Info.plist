@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.compuware.uem.iOS.CompuwareUEM</string>
+	<key>CFBundleName</key>
+	<string>CompuwareUEM mobile agent 6.3.3.1502</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.3.3.1502</string>
+	<key>CFBundleVersion</key>
+	<string>6.3.3.1502</string>
+	<key>DocSetDescription</key>
+	<string>API reference for CompuwareUEM mobile agent version 6.3.3.1502.</string>
+	<key>DocSetFeedName</key>
+	<string>CompuwareUEM 6.3.3.1502</string>
+	<key>DocSetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>DocSetPublisherIdentifier</key>
+	<string>com.compuware.uem.documentation</string>
+	<key>DocSetPublisherName</key>
+	<string>Compuware Corporation</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2012-2016 Compuware Corporation</string>
+</dict>
+</plist>
